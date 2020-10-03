@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1012149574104",
+    "firebase_url": "https://engame-test.firebaseio.com",
+    "project_id": "engame-test",
+    "storage_bucket": "engame-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012149574104:android:8b518c99db1b6acd",
+        "android_client_info": {
+          "package_name": "com.devaqpgroup.loginFacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJXy49ql_FeSn4RxbFsUZe4j3Jl9WqIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012149574104:android:ff80a5d6c7b7c634",
+        "android_client_info": {
+          "package_name": "com.engame.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJXy49ql_FeSn4RxbFsUZe4j3Jl9WqIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012149574104:android:9de5b53b59fd4e7b",
+        "android_client_info": {
+          "package_name": "com.firebase.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012149574104-rs65n2ejfr3rvln64fdm8jq5purnvd00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.android",
+            "certificate_hash": "ba8e8f085cce8ed1959e1523068e6b6225a526c4"
+          }
+        },
+        {
+          "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJXy49ql_FeSn4RxbFsUZe4j3Jl9WqIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012149574104-15o19bfp9ebvnbskr06uj6k2mp1u0shs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

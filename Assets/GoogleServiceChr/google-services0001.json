@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "700532600783",
+    "firebase_url": "https://unitydatabase-5c183.firebaseio.com",
+    "project_id": "unitydatabase-5c183",
+    "storage_bucket": "unitydatabase-5c183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700532600783:android:5a7202548d8fadcc",
+        "android_client_info": {
+          "package_name": "com.christian58.androidgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700532600783-vedk9fkkipn2275hcfr73o4feccd7hbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_RLIPlfZklU1Ol_c_aGl7OJ7-00hcng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ScriptLogin/ScenaChristian/AuthFB.unity
+  isLoaded: 1
+  isActive: 1

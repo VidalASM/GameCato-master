@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{1C63262F-1DF6-F2D6-3EE0-D22AD6032C77}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptLogin/AuthUI.cs">
+    <Files>
+      <File FileName="Assets/ScriptLogin/Cube1Move.cs" Line="425" Column="27" />
+      <File FileName="Assets/ScriptLogin/MovePlayer.cs" Line="463" Column="40" />
+      <File FileName="Assets/ScriptLogin/Cube4Move.cs" Line="470" Column="32" />
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/button_manage.cs" Line="25" Column="50" />
+      <File FileName="Assets/ScriptLogin/AuthUI.cs" Line="58" Column="13" />
+      <File FileName="Assets/ScriptLogin/AuthManager.cs" Line="313" Column="85" />
+      <File FileName="Assets/ScriptLogin/EscenaLogIn.cs" Line="21" Column="26" />
+      <File FileName="Assets/ScriptLogin/Escena.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
